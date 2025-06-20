@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Finance Tracker</string>
+    <string name="welcome_message">Welcome to Finance Tracker</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Register</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="register_link">Don\'t have an account? Register</string>
+    <string name="login_link">Already have an account? Login</string>
+    <string name="back_button">Back</string>
+    <string name="app_subtitle">Your journey begins here. Sign in to continue or create a new account.</string>
+    <string name="footer_text">©2025 [Finance tracking]</string>
+    <string name="register_title">Create Account</string>
+    <string name="welcome_text">Welcome Back</string>
+    <string name="app_logo_description">App Logo</string>
+    <string name="about_us_title">About Us</string>
+    <string name="about_us_header">About Us Header Image</string>
+    <string name="company_logo">Company Logo</string>
+    <string name="company_name">Your Company Name</string>
+    <string name="company_tagline">Your Company Tagline or Slogan</string>
+    <string name="our_story_title">Our Story</string>
+    <string name="our_story_content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id. Sed rhoncus, tortor sed eleifend tristique, tortor mauris molestie elit, et lacinia ipsum quam nec dui.</string>
+    <string name="our_mission_title">Our Mission</string>
+    <string name="our_mission_content">Our mission is to provide the highest quality products and services to our customers while maintaining the highest standards of integrity, innovation, and excellence in everything we do.</string>
+    <string name="our_team_title">Meet Our Team</string>
+    <string name="team_member_1_name">John Doe</string>
+    <string name="team_member_1_role">CEO</string>
+    <string name="team_member_2_name">Jane Smith</string>
+    <string name="team_member_2_role">CTO</string>
+    <string name="team_member_3_name">Mike Johnson</string>
+    <string name="team_member_3_role">Lead Designer</string>
+    <string name="contact_us_title">Contact Us</string>
+    <string name="company_address">123 Main Street, City, Country</string>
+    <string name="company_email">info@yourcompany.com</string>
+    <string name="company_phone">+1 (555) 123-4567</string>
+    <string name="facebook">Facebook</string>
+    <string name="twitter">Twitter</string>
+    <string name="instagram">Instagram</string>
+    <string name="linkedin">LinkedIn</string>
+    <string name="contact_us_fab">Contact Us</string>
+</resources>
+
+
+    <!-- In strings.xml -->
+
